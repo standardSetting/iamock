@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/iamock/static/css/main.7f4089de.chunk.css",
-    "main.js": "/iamock/static/js/main.9177847c.chunk.js",
-    "main.js.map": "/iamock/static/js/main.9177847c.chunk.js.map",
+    "main.css": "/iamock/static/css/main.abaccd05.chunk.css",
+    "main.js": "/iamock/static/js/main.5062a91f.chunk.js",
+    "main.js.map": "/iamock/static/js/main.5062a91f.chunk.js.map",
     "runtime-main.js": "/iamock/static/js/runtime-main.53888553.js",
     "runtime-main.js.map": "/iamock/static/js/runtime-main.53888553.js.map",
     "static/js/2.12218ad8.chunk.js": "/iamock/static/js/2.12218ad8.chunk.js",
     "static/js/2.12218ad8.chunk.js.map": "/iamock/static/js/2.12218ad8.chunk.js.map",
     "index.html": "/iamock/index.html",
-    "static/css/main.7f4089de.chunk.css.map": "/iamock/static/css/main.7f4089de.chunk.css.map",
+    "static/css/main.abaccd05.chunk.css.map": "/iamock/static/css/main.abaccd05.chunk.css.map",
     "static/js/2.12218ad8.chunk.js.LICENSE.txt": "/iamock/static/js/2.12218ad8.chunk.js.LICENSE.txt",
     "static/media/toolbar.0d38b716.png": "/iamock/static/media/toolbar.0d38b716.png"
   },
   "entrypoints": [
     "static/js/runtime-main.53888553.js",
     "static/js/2.12218ad8.chunk.js",
-    "static/css/main.7f4089de.chunk.css",
-    "static/js/main.9177847c.chunk.js"
+    "static/css/main.abaccd05.chunk.css",
+    "static/js/main.5062a91f.chunk.js"
   ]
 }
